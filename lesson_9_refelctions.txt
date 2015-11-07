@@ -1,0 +1,1 @@
+The staging area is useful as it allows you to craft exactly what a commit contains.

@@ -1,0 +1,2 @@
+git log - view commits
+git diff - view added and deleted lines between two selected commits

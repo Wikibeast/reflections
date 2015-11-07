@@ -1,0 +1,1 @@
+Access to the history of a file helps you trace back where a bug may have been introduced.

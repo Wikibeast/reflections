@@ -1,0 +1,1 @@
+Git supports larger multi-coder projects, while Google Docs is intended for single document projects like texts and spreadsheets.

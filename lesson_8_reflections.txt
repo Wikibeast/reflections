@@ -1,0 +1,1 @@
+Initializing a repository tells Git to start tracking it and creates the necessary hidden Git files in the folder. 

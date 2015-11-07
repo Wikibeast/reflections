@@ -1,0 +1,1 @@
+I want to use Git to quickly and effectively keeo track of my files while I am programming. I also want to be able to work with other programmars on larger projects online, which will likely be done with Git.

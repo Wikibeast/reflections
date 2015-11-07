@@ -1,0 +1,1 @@
+Manually choosing commits allow the commits to have more meaning. However this allows room for user error.
