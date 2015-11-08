@@ -1,0 +1,1 @@
+You can use the staging are to make sure you have one commit per logical change by comparing it to the master with git diff --staged. You can look at those differences and attempt to express them in a simple sentences. 
