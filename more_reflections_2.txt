@@ -5,3 +5,5 @@ Branches could be useful when experimenting or making new versions. They help gi
 Diagrams help you see how branches relate to each other beyond simple pointers. 
 
 Merging two branches together creates a new commit that serves as the tip of the branch that was "merged into". We represent it in a diagram in order to demonstrate the lineage of the commits and better visualize the development process.
+
+Git's automatic merging is good in that it doesn't introduce errors on its own, however resolving so many conflicts yourself can be tedious.
