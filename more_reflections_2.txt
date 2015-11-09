@@ -3,3 +3,5 @@ You can use the staging are to make sure you have one commit per logical change 
 Branches could be useful when experimenting or making new versions. They help give you a safe environment to try things without worrying about damaging the working master copy. They allow development to continue while a piece of code is in active use. 
 
 Diagrams help you see how branches relate to each other beyond simple pointers. 
+
+Merging two branches together creates a new commit that serves as the tip of the branch that was "merged into". We represent it in a diagram in order to demonstrate the lineage of the commits and better visualize the development process.
