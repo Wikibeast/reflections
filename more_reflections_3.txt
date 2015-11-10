@@ -6,3 +6,4 @@ Branches are code copied within a repository. Clones are copied repositories. Fo
 
 The advantage of having a copy of the last known state of the remote stored locally is that you can go offline, run a diff between the files, and merge them in your own time, instead of having to reconcile the changes in the two files then and there as with a pull request.
 
+Without Git or GitHub collaborating with code would indeed be more difficult. It would help to communicate more with other coders and designate who is working on what at any given time. 
