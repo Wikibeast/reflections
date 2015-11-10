@@ -1,3 +1,7 @@
 When you want to share! And backups are thumb-ups.
 
 Automatically pulling from remote might disrupt your workflow in local. 
+
+Branches are code copied within a repository. Clones are copied repositories. Forks are copied repositories within GitHub.
+
+
